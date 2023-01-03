@@ -1,0 +1,13 @@
+name: 'SShop homepage feature'
+description: 'Contains homepage (/home) and Page Variant of the SShop theme.'
+type: module
+core_version_requirement: ^9.3 || ^10
+
+dependencies:
+  - block
+  - block_content
+  - page_manager
+  - panels
+  - quicktabs
+  - system
+  - views
